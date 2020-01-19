@@ -9,7 +9,7 @@ When `Access Control Allow Origin` header is set to `*` without having cache con
 By using the `force-cache` directive in `fetch` function of js, we can ask the browser to first check if the request is cached and return the cached version if it exist.
 
 
-Original bug report : https://bugs.chromium.org/p/chromium/issues/detail?id=988319#c11
+Original bug report : https://bugs.chromium.org/p/chromium/issues/detail?id=988319
 
 Reference : https://hackerone.com/reports/761726
 
