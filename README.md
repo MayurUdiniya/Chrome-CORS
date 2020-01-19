@@ -1,5 +1,5 @@
 # Chrome-CORS
-When `Access Control Allow Origin` header is set to `*` without having cache control response headers , an attacker can steal victim's private information.
+A demo vulnerable application for stealing sensitive  information by abusing Google Chrome cache. When `Access Control Allow Origin` header is set to `*` without having cache control response headers , an attacker can steal victim's private information.
 
 ##### Credentials
 `Username : gamer`
